@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-gpages/static/css/main.147174df.css",
-    "main.js": "/react-gpages/static/js/main.983f401e.js",
+    "main.js": "/react-gpages/static/js/main.62c9282b.js",
     "static/js/787.7a4b380b.chunk.js": "/react-gpages/static/js/787.7a4b380b.chunk.js",
     "static/media/marketing.jpg": "/react-gpages/static/media/marketing.f629aa392c4ff105f747.jpg",
     "static/media/app.jpeg": "/react-gpages/static/media/app.8714f36598ad2ce812b5.jpeg",
@@ -13,11 +13,11 @@
     "static/media/img2.svg": "/react-gpages/static/media/img2.d12e2a271e618bd9bc130b61d3930482.svg",
     "index.html": "/react-gpages/index.html",
     "main.147174df.css.map": "/react-gpages/static/css/main.147174df.css.map",
-    "main.983f401e.js.map": "/react-gpages/static/js/main.983f401e.js.map",
+    "main.62c9282b.js.map": "/react-gpages/static/js/main.62c9282b.js.map",
     "787.7a4b380b.chunk.js.map": "/react-gpages/static/js/787.7a4b380b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.147174df.css",
-    "static/js/main.983f401e.js"
+    "static/js/main.62c9282b.js"
   ]
 }
